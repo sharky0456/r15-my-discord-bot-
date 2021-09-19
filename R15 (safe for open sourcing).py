@@ -164,4 +164,4 @@ async def hello_world(ctx: commands.Context):
 
 
   #make sure your code is above this!    
-bot.run("(put your token here using the discord developer portal")
+bot.run("(TOKEN HERE)")
