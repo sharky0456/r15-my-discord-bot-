@@ -9,7 +9,7 @@ also! most of these things will require external folders so i may make a google 
 there is a part of my code that says (TOKEN HERE) and if you try to run my code it will have an error thats because you need to put your actual token there that you can find on the discord developer portal when you make an app and then put a bot on it 
 
 # files needed for my bot
-go to "files for my bot" in my repository to find these files that are in my bot!
+go to *"files for my bot"* in my repository to find these files that are in my bot!
 * $GUN: requires gun cock.mp3, BANG.wav, and gun dryfire!.mp3
 * $lotto: requires YOU WON THE LOTTO MATE!.MP3 and f in chat.wav
 * $shark: requires a folder called "cool sharks" containing shark pictures (sorted into subfolders based on shark type)
