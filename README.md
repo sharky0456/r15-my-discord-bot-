@@ -4,3 +4,6 @@ anyway i also just want to say that i made the database for the shark and it too
 
 # annother note
 also! most of these things will require external folders so i may make a google drive with all the files in it if anyone wants those files (you are welcome to change them to anything you want as long as you keep the file names the same otherwise it wont work or you will need to change the code)
+
+# about tokens
+there is a part of my code that says (TOKEN HERE) and if you try to run my code it will have an error thats because you need to put your actual token there that you can find on the discord developer portal when you make an app and then put a bot on it 
