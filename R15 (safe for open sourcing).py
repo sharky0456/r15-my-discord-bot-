@@ -84,7 +84,7 @@ async def on_command_error(ctx, error):
 
 @bot.command(name='shark')
 async def shark(ctx: commands.Context, *, text: str=''):
-    '''you can look through my really cool shark libary made by me (to look at a specific shark type "shark (name of shark here)" (you can use it just please credit me)'''
+    '''you can look through my really cool shark libary made by me (to look at a specific shark type "shark (name of shark here)" (these photos arent mine i just made the folders)'''
     if text == '':
         sharkfilename = random.choice(imagenames)
         await ctx.send(os.path.basename(sharkfilename))
