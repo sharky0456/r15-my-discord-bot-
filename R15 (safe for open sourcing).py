@@ -161,7 +161,16 @@ async def hello_world(ctx: commands.Context):
     '''an 8 ball with 8 responses. i know they usually have 20 but whatever! this one isnt biased towards saying yes! 3 negative responses 3 positive and 2 not sure'''
     await ctx.send(random.choice(['outlook positive', 'it is most definitely so','yes','ask again and i may come to my senses','i need to fully decide my question can you repeat that','my answer is no','it is most definitely not','nope']))
 
+@bot.command(name="feed")
+async def hello_world(ctx: commands.Context):
+    '''wait why is this even a command on my bot?'''
+    await ctx.send("this aint neopets dumbass im a discord bot!")
+    await ctx.send("what could you even feed me anyway \n")
 
-
+@bot.command(name="unfeed")
+async def hello_world(ctx: commands.Context):
+    '''i am at a loss for words'''
+    await ctx.send("what is with you people")
+    
   #make sure your code is above this!    
 bot.run("(TOKEN HERE)")
